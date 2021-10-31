@@ -1,0 +1,61 @@
+main: com.twinkelmc.core.Main
+name: TMC-Core
+version: 1.0.0
+author: Xander de Keijzer
+api-version: 1.17
+depend:
+  - LuckPerms
+  - KotlinLib
+commands:
+  dev:
+    description: dev
+  rp:
+    description: rp
+  gm:
+    description: gm
+  gamemode:
+    description: gamemode
+  fly:
+    description: fly
+  gmc:
+    description: gmc
+  gms:
+    description: gms
+  gma:
+    description: gma
+  gmsp:
+    description: gmsp
+  up:
+    description: up
+  top:
+    description: top
+  speed:
+    description: speed
+  tp:
+    description: tp
+  tphere:
+    description: tphere
+  back:
+    description: back
+  craft:
+    description: craft
+  ptime:
+    description: ptime
+  pweather:
+    description: pweather
+  invsee:
+    description: invsee
+  help:
+    description: help
+  list:
+    description: list
+  msg:
+    description: msg
+  rules:
+    description: rules
+  heal:
+    description: heal
+  spawn:
+    description: spawn
+  test:
+    description: test
